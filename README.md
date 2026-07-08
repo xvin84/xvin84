@@ -7,7 +7,7 @@
 ## 📫 Контакты
 
 - **Email:** xvin240@gmail.com
-- **Kwork:** [профиль на Kwork](https://kwork.ru/user/xdxpxdxp83)
+- **Kwork:** [профиль на Kwork](https://kwork.ru/user/xvin)
 - **Локация:** Ростов-на-Дону, Россия (UTC+3)
 
 ---
@@ -86,4 +86,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvin84&layout=compact&theme=dark)
 
 **Открыт для проектов и долгосрочного сотрудничества** — удалённо / фриланс.
-Связаться: xvin240@gmail.com или через [Kwork](https://kwork.ru/user/xdxpxdxp83).
+Связаться: xvin240@gmail.com или через [Kwork](https://kwork.ru/user/xvin).
