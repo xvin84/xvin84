@@ -71,6 +71,11 @@
 
 ## 📱 Мобильная разработка
 
+- **[Palimpsest](https://github.com/xvin84/palimpsest)** - музыкальный плеер для
+  Android и компьютера, в котором ничего не стирается: при перезаливке трека
+  старая версия остаётся в истории. Своя медиатека работает офлайн, Яндекс
+  Музыка и YouTube Music докачивают недостающее. Kotlin, Jetpack Compose, Media3,
+  Room, публичная бета с видеообзором в Releases
 - **[auto-assistant-case-study](https://github.com/xvin84/auto-assistant-case-study)** -
   офлайн-приложение «история автомобиля» на React Native / Expo + Supabase
   (PostgreSQL + RLS): синхронизация гостя в облако, напоминания, PDF-отчёты
@@ -88,6 +93,7 @@
 - **OpenAI API / RAG** · Structured Outputs
 - **Playwright** · **BeautifulSoup** · **OpenCV** · **YOLO** · ADB
 - **PyQt6 / PySide6** · PyInstaller
+- **Kotlin** · **Jetpack Compose** · Media3
 - **React Native / Expo** · **Supabase** · **TypeScript**
 - **Docker Compose** · **GitHub Actions** · **pytest** · `uv` · Linux
 
